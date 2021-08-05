@@ -35,7 +35,7 @@ allprojects {
 - Add the following line to the dependencies element in your application module’s build.gradle.
 
 ```groovy
-    implementation 'com.touchtalent.bobblesdk:keyboard:2.1.1.010'
+    implementation 'com.touchtalent.bobblesdk:keyboard:2.1.1.011'
 ```
 
 - Sync your Gradle project to ensure that the dependency is downloaded by the build system.
