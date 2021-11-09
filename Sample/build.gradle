@@ -22,7 +22,7 @@ allprojects {
         maven {
             url mavenReadUrl
             credentials {
-                username 'myMavenRepo'
+                username mavenReadUsername
                 password mavenReadPassword
             }
         }
